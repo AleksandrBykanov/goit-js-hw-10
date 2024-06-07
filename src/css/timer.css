@@ -1,0 +1,25 @@
+body {
+  background-image: url(../img/black-friday.jpg);
+  background-repeat: no-repeat;
+}
+.section-timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+a {
+  font-size: 24px;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #dad5d5;
+}
+
+h1 {
+  font-size: 36px;
+}

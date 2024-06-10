@@ -2,7 +2,6 @@ body {
   background-image: url(../img/black-friday.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 .section-timer {
   display: flex;
